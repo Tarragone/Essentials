@@ -24,7 +24,7 @@ TagManager:
   - PowerDowns
   - 
   - 
-  - 
+  - background
   - 
   - 
   - 
@@ -38,8 +38,14 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: foreground layer
+    uniqueID: 1893184089
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background layer
+    uniqueID: 126975547
     locked: 0
   m_RenderingLayers:
   - Default
